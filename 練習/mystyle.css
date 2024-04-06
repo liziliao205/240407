@@ -1,0 +1,112 @@
+@charset "UTF-8";
+header {
+	height: 100px;
+	color: #C0696A;
+	text-align: center;
+	text-shadow: 0px 0px #F1D5D5;
+	background-color: #EED3D3;
+	border-top-right-radius: 50px;
+	margin-right: 100px;
+	border: 35px groove #C99F9F;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-left: 100px;
+	border-bottom-left-radius: 50px;
+	width: auto;
+}
+nav {
+	color: #6D4444;
+	text-align: center;
+	height: 25px;
+	width: 500px;
+	background-color: #BFAFAF;
+	border-radius: 30px;
+	margin-left: 450px;
+	margin-right: 400px;
+}
+main {
+	color: #635767;
+	text-decoration: none;
+	background-color: #E8E0F1;
+	float: none;
+	border-top-right-radius: 30px;
+	text-align: left;
+}
+.main01 {
+	color: #3F4C63;
+	background-color: #D7DFEE;
+	border-top-right-radius: 30px;
+}
+.main02 {
+	background-color: #E8F9F5;
+	color: #306F6D;
+	border-top-right-radius: 30px;
+}
+.main03 {
+	color: #C69F20;
+	background-color: #F0E8D5;
+}
+.main04 {
+	color: #B75538;
+	background-color: #F1D9D1;
+	width: 650px;
+	border-style: groove;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 150px;
+	padding-right: 100px;
+	border-bottom-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding-bottom: 40px;
+}
+.main05 {
+	color: #C486A5;
+	background-color: #F5E8F4;
+	width: 650px;
+	margin-right: 500px;
+	margin-left: 350px;
+	border-style: groove;
+	border-bottom-left-radius: 30px;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 40px;
+}
+article {
+	-webkit-box-shadow: 0px 0px #3A2D5D;
+	box-shadow: 0px 0px #3A2D5D;
+	background-color: #E8E0F1;
+	color: #31263F;
+	border-width: thick thick medium;
+	border-style: outset;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	height: 150px;
+	text-align: left;
+	font-size: medium;
+}
+.article01 {
+	background-color: #D7DFEE;
+	height: 250px;
+}
+.article02 {
+	background-color: #E8F9F5;
+	height: 220px;
+}
+.article03 {
+	color: #C69F20;
+	background-color: #F0E8D5;
+	width: 990px;
+	height: 630px;
+	min-width: 0px;
+	margin-left: 170px;
+	margin-right: 100px;
+	padding-left: 65px;
+}
+footer {
+	width: 300px;
+}
+.lizi {
+	background-color: #F6E6E6;
+}
